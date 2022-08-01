@@ -1,0 +1,25 @@
+{
+  "name": "anything",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "save": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartge3k/testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartge3k/testing/issues"
+  },
+  "homepage": "https://github.com/smartge3k/testing#readme"
+}
